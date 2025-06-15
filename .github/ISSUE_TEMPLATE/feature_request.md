@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggestions to improve Datably
+about: Suggestions or ideas
 title: ''
 labels: ''
 assignees: ''
