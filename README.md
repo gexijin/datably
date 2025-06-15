@@ -2,6 +2,4 @@
 
 This repo is for reporting issues only. Source code is proprietary.
 
-[Datably.ai](https://datably.ai)
-
-[Orditus LLC](https://orditus.com)
+[Datably.ai](https://datably.ai) by [Orditus.](https://orditus.com)
