@@ -1,3 +1,2 @@
-# Chatlize.ai: All you have to do is ask!
+# Datably.ai: Your copilot in data science.
 
-https://Chatlize.ai
