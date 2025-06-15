@@ -1,4 +1,7 @@
-# Datably.ai: Your copilot in data science.
+# Datably.ai: Your AI sidekick in data science.
 
+This repo is for reporting issues only. Source code is proprietary.
 
-Source code is not public.
+[Datably.ai](https://datably.ai)
+
+[Orditus LLC](https://orditus.com)

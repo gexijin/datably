@@ -13,15 +13,15 @@ Describe the bug clearly and concisely.
 
 ### 📁 Project Information  
 1. **Data**:  
-   - Upload a small file directly here if possible.  
-   - For larger files, provide a link (e.g., cloud storage).  
-   - If applicable, include a minimal example dataset that reproduces the issue.
+   - Upload a file here if it is small (<5Mb) and can be publicly shared.
+   - For private data, email a copy to info@orditus.com
+   - For larger files, provide a link. Sometimes a small part of the file is sufficient to reproduce the issue.
 
 2. **Project Goal**:  
-   Briefly describe the objective of the project or the intended outcome.
+   The objective of the project or the intended outcome.
 
 ### 🔁 Steps to Reproduce  
-List a minimal, complete sequence of steps that consistently reproduces the issue. Include any prompts used and UI actions (e.g., button clicks).
+List a minimal, complete sequence of steps that consistently reproduces the issue. Include any prompts used and UI actions.
 
 ### 📸 Screenshots (Optional)  
 Paste screenshots directly here if they help illustrate the problem.
